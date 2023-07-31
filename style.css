@@ -139,7 +139,7 @@ body {
 }
 
 .popup-info h2 {
-    font-size: 50px;
+    font-size: 30px;
     color: #c40094;
 }
 
@@ -148,7 +148,7 @@ body {
     font-size: 16px;
     color: #333;
     font-weight: 500;
-    margin: 4px 0;
+    margin: 10px 0;
 }
 
 .popup-info .btn-group {
@@ -262,8 +262,8 @@ body {
     padding: 7px;
 }
 
-.quiz-box .queston-text {
-    font-size: 24px;
+.quiz-box .question-text {
+    font-size: 15px;
     font-weight: 600;
 }
 
@@ -273,7 +273,7 @@ body {
     background: transparent;
     border: 2px solid rgba(255, 255, 255, .2);
     border-radius: 4px;
-    font-size: 17px;
+    font-size: 15px;
     margin: 15px 0;
     cursor: pointer;
     transition: .3s;
@@ -366,12 +366,11 @@ body {
 }
 
 .result-box h2 {
-    font-size: 52px;
+    font-size: 45px;
 }
 
 .result-box .percentage-container {
     width: 300px;
-
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -405,7 +404,7 @@ body {
 }
 
 .percentage-container .score-text {
-    font-size: 26px;
+    font-size: 18px;
     font-weight: 600;
     margin-top: 20px;
 }
@@ -415,10 +414,10 @@ body {
 }
 
 .buttons button {
-    width: 130px;
+    width: 160px;
     height: 47px;
     background: #c40094;
-    border: 2p solid #c40094;
+    border: 2px solid #c40094;
     outline: none;
     border-radius: 6px;
     font-size: 16px;

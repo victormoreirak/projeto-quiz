@@ -1,57 +1,57 @@
 let questions = [
     {
         numb: 1,
-        question: "Whats does HTML for?",
-        answer: "C. Hyper Text Markup Language",
+        question: "Quais são as principais etapas do ciclo de vida de desenvolvimento de um modelo de Inteligência Artificial?",
+        answer: "C. Treinamento, validação e teste.",
         options: [
-            "A. Hyper Type Multi Language",
-            "B. Hyper Text Multiple Language",
-            "C. Hyper Text Markup Language",
-            "D. Home Text Multi Language"
+            "A. Investigação, experimentação e apresentação.",
+            "B. Criação, compilação e implantação.",
+            "C. Treinamento, validação e teste.",
+            "D. Aquisição, análise e otimização."
         ]
     },
     {
         numb: 2,
-        question: "Whats does CSS stand for?",
-        answer: "A. Cascading Style Sheet",
+        question: "Qual dessas empresas de tecnologia é famosa por desenvolver uma assistente virtual com inteligência artificial?",
+        answer: "A. Amazon - Alexa",
         options: [
-            "A. Cascading Style Sheet",
-            "B. Cute Style Sheet",
-            "C. Computer Style Sheet",
-            "D. Codehal Style Sheet"
+            "A. Amazon - Alexa",
+            "B. Microsoft - Windows",
+            "C. Google - Safari",
+            "D. Facebook - Messenger"
         ]
     },
     {
         numb: 3,
-        question: "Whats does PHP stand for?",
-        answer: "A. Hypertext Preprocessor",
+        question: "Qual é o principal objetivo do Processamento de Linguagem Natural (PLN)?",
+        answer: "A. Facilitar a interação entre humanos e computadores através da linguagem.",
         options: [
-            "A. Hypertext Preprocessor",
-            "B. Hometext Programming",
-            "C. Hypertext Preprogramming",
-            "D. Programming Hypertext Preprocessor"
+            "A. Facilitar a interação entre humanos e computadores através da linguagem.",
+            "B. Permitir que as máquinas processem imagens complexas.",
+            "C. Treinar modelos de IA usando rótulos de dados.",
+            "D. Desenvolver chatbots com personalidades únicas."
         ]
     },
     {
         numb: 4,
-        question: "What does SQL stand for?",
-        answer: "D. Structured Query Language",
+        question: "O que é Deep Learning?",
+        answer: "D. Um tipo de Aprendizado de Máquina que usa redes neurais profundas.",
         options: [
-            "A. Strength Query Language",
-            "B. Stylesheet Query Language",
-            "C. Science Question Language",
-            "D. Structured Query Language"
+            "A. Um tipo de Aprendizado de Máquina que só funciona com GPS.",
+            "B. Um tipo de Aprendizado Não Supervisionado.",
+            "C. Um tipo de Aprendizado de Máquina que usa radares.",
+            "D. Um tipo de Aprendizado de Máquina que usa redes neurais profundas."
         ]
     },
     {
         numb: 5,
-        question: "What does XML stand for?",
-        answer: "D. Extensible Markup Language",
+        question: "Qual das seguintes tarefas é uma aplicação comum de Processamento de Linguagem Natural (PLN)?",
+        answer: "D. Recomendações personalizadas em plataformas de streaming.",
         options: [
-            "A. Excellent Multiple Language",
-            "B. Explore Multiple Language",
-            "C. Extra Markup Language",
-            "D. Extensible Markup Language"
+            "A. Detecção de rostos em imagens.",
+            "B. Controle de temperatura em ambientes inteligentes.",
+            "C. Classificação de imagens em diferentes categorias.",
+            "D. Recomendações personalizadas em plataformas de streaming."
         ]
     }
 ];
